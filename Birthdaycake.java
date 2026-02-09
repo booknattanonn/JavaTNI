@@ -30,4 +30,3 @@ public class Birthdaycake extends Bakery {
                 this.message + ")\n" + "total price of Birthday Cake = " + calculateTotalPrice();
     }
 }
-
